@@ -101,19 +101,3 @@ See:
 ```
 
 
-## Citation
-
-If you use this library, please cite the following paper:
-
-```bibtex
-@article{fujiwara2020incremental,
-  title={An Incremental Dimensionality Reduction Method for Visualizing Streaming Multidimensional Data},
-  author={Fujiwara, Takanori and Chou, Jia-Kai and Shilpika and Xu, Panpan and Ren, Liu and Ma, Kwan-Liu},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
-  volume={26},
-  number={1},
-  pages={418--428},
-  year={2020},
-  doi={10.1109/TVCG.2019.2934433}
-}
-```
