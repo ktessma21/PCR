@@ -100,13 +100,6 @@ See:
 #include "inc_pca.cpp"
 ```
 
----
-
-## Demo & Resources
-
-- 📽️ [Demo videos & evaluation code](https://takanori-fujiwara.github.io/s/inc-dr/index.html)
-
----
 
 ## Citation
 
